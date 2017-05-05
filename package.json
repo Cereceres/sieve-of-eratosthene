@@ -1,0 +1,27 @@
+{
+  "name": "sieve-of-eratosthene",
+  "version": "0.0.1",
+  "description": "get the primes numbers using sieve of eratosthene",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/sieve-of-eratosthene.git"
+  },
+  "keywords": [
+    "numbers",
+    "primes",
+    "eratosthene"
+  ],
+  "author": "Jesus Cereceres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cereceres/sieve-of-eratosthene/issues"
+  },
+  "homepage": "https://github.com/Cereceres/sieve-of-eratosthene#readme",
+  "devDependencies": {
+    "mocha": "^3.3.0"
+  }
+}
