@@ -1,5 +1,5 @@
 # sieve-of-eratosthene
-Sieve of Eratosthene to get prime numbers
+Sieve of Eratosthene to get prime numbers. Node >= 6 is required.
 
 # Usage
 
