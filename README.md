@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Cereceres/sieve-of-eratosthene.svg?branch=master)](https://travis-ci.org/Cereceres/sieve-of-eratosthene)
+
 # sieve-of-eratosthene
 Sieve of Eratosthene to get prime numbers. Node >= 6 is required.
 
